@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\pre-dexed\debug\classes-8e7ea4be84beac4c0907ee30e11af75318689fb3.jar" />
+    </item>
+    <item
+        jar="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-9fdcb9e38fe9175d4dde7cff4c5e997bfedf5ea2.jar" />
+    </item>
+    <item
+        jar="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\exploded-aar\demo.sdk\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d8a0ee0cc4b9505ab146e28bd40926770bda9de">
+        <dex dex="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\pre-dexed\debug\classes-a29a8910f9a3dcad601fc74711dde8c5fe2057c3.jar" />
+    </item>
+    <item
+        jar="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\libs\jason-all.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="45ce8390f1dc85719fa7124141b21d2a18e1363e">
+        <dex dex="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\pre-dexed\debug\jason-all-08e78ff6761e5a952d817dab54021ca1071a1030.jar" />
+    </item>
+    <item
+        jar="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\pre-dexed\debug\classes-bf816515e5a19697d1819338ca55a95e9ff533ab.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-160e21806fe4fcbe2b20c34d1bbde421f69a17ae.jar" />
+    </item>
+    <item
+        jar="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\exploded-aar\demo.sdk\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="D:\code\HighDefine\RAKVideoTest--2016.4.13--Android Studio\RAKVideoTest\HighDefinition\build\intermediates\pre-dexed\debug\org.apache.http.legacy-e3e31400dbaf0fc2ce821cf6e2708991b541de44.jar" />
+    </item>
+
+</items>

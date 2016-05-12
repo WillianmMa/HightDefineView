@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:orientation="horizontal"
+  android:id="@+id/photo_listitem"
+  >
+
+	<RelativeLayout
+	    android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    >
+
+	<ImageView
+		android:padding="10dp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" 
+		android:id="@+id/photonum"
+		android:layout_alignParentLeft="true"
+		android:layout_centerVertical="true"
+		>
+	</ImageView>
+	<TextView
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:id="@+id/data"		
+		android:textSize="@dimen/add_title_height"
+		android:textColor="#000000"
+		android:text="54464"
+		android:layout_centerVertical="true"
+		android:layout_centerHorizontal="true"
+		>
+	</TextView>
+	
+	<ImageView
+		android:padding="10dp"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/del"
+		android:src="@drawable/choose"
+		android:layout_alignParentRight="true"
+		android:layout_centerVertical="true"
+		>
+	</ImageView>
+		<TextView
+			android:padding="15dp"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/date"
+			android:textSize="@dimen/add_title_height"
+			android:text=""
+			android:textColor="#000000"
+			android:layout_centerVertical="true"
+			android:layout_centerHorizontal="true"
+			android:visibility="gone"
+			android:background="@color/add_line"
+			>
+		</TextView>
+	</RelativeLayout>
+</LinearLayout>
+<!-- From: file:/D:/workspace2/HighDefineProj/RAKVideoTest/HighDefinition/src/main/res/layout/photo_listitem.xml -->

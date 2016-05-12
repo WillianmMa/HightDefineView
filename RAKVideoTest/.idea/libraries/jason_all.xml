@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jason-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HighDefinition/libs/jason-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

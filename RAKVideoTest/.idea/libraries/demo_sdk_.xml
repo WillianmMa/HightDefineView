@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="demo.sdk-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HighDefinition/build/intermediates/exploded-aar/demo.sdk/jars/libs/org.apache.http.legacy.jar!/" />
+      <root url="file://$PROJECT_DIR$/HighDefinition/build/intermediates/exploded-aar/demo.sdk/res" />
+      <root url="jar://$PROJECT_DIR$/HighDefinition/build/intermediates/exploded-aar/demo.sdk/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
